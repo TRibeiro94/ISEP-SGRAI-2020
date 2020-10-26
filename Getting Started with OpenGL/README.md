@@ -15,3 +15,8 @@
 - Code at Square_Animation_using_Perspective/Source.cpp
 
 ![squareAnimation3.gif](Files/squareAnimation3.gif)
+
+###### Cube Animation (Translation & Rotation)
+- Code at Cube_Animation/Source.cpp
+
+![cube.gif](Files/cube.gif)

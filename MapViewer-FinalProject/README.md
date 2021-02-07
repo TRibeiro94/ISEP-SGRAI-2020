@@ -61,3 +61,13 @@ Os modelos disponíveis para importação são:
 ##### (US 11) Projeção de sombras:
 ------
 ![Sprint_3](../Files/shadow.png)
+
+-----------
+
+### Referências
+
+* [MapboxGL Js](https://docs.mapbox.com/mapbox-gl-js/api/)
+
+* [Three.js](https://threejs.org/)
+
+* [Threebox](https://github.com/peterqliu/threebox)

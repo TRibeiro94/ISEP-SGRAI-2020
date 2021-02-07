@@ -1,7 +1,11 @@
 # ISEP-SGRAI-2020/2021
 SGRAI unit course modules and final project.
 
-[PL1](./PL1)
+* [PL1](./PL1)
+
+* [PL2](./PL2)
+
+* [Final Project](./MapViewer-FinalProject)
 
 --------
 
